@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @rolias4031
+- 👀 I’m interested in web and blockchain development and how they intersect with the law, society, and economics.
+- 🌱 I’m currently learning Python, specifically Django, and plan to start learning Solidity and Python Web3 libraries soon.
+- 💞️ I’m looking to collaborate on any projects that touch these areas.
