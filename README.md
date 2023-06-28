@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @rolias4031
-- 👀 I’m interested in web and blockchain development and how they intersect with the law, society, and economics.
-- 🌱 I'm currently focused on building web applications using TypeScript, Nest.js, Next.js, and SQL databases.
-- 💞️ I’m looking to collaborate on any projects that touch these areas.
+Typescript, React, NextJS.
